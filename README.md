@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
