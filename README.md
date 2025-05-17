@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
