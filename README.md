@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3321-type-of-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3321-type-of-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
