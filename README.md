@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0945-snakes-and-ladders) |
 | [1293-three-consecutive-odds](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2048-build-array-from-permutation) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
