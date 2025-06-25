@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2048-build-array-from-permutation](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -236,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
