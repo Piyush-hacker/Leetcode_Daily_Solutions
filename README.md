@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2479-meeting-rooms-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3321-type-of-triangle) |
