@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
