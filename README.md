@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
