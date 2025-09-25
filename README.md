@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0135-candy) |
 | [0498-diagonal-traverse](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
