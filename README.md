@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0945-snakes-and-ladders) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1448-maximum-69-number) |
