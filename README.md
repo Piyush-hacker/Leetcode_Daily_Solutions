@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0945-snakes-and-ladders) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
