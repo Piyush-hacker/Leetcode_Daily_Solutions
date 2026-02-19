@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
