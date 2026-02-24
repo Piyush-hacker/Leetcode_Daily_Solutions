@@ -803,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1382-balance-a-binary-search-tree) |
