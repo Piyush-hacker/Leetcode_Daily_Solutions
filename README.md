@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0200-number-of-islands) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
