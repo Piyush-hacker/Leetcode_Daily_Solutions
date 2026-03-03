@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/2169-simple-bank-system) |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1098,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
