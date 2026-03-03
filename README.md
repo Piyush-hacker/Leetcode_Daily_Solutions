@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
