@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0474-ones-and-zeroes) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0498-diagonal-traverse) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0794-swim-in-rising-water) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0794-swim-in-rising-water) |
@@ -1133,5 +1137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/0200-number-of-islands) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Piyush-hacker/Leetcode_Daily_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
